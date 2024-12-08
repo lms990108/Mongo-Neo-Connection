@@ -4,7 +4,8 @@
 
 이 프로젝트는 MongoDB에 저장된 **상품-사용자 구매 데이터**를 Neo4j로 Migration하여 Graph DB 학습과 활용 방안에 대한 경험을 목표로 함.
 
-Docker Compose를 사용하여 MongoDB와 Neo4j 컨테이너를 관리하며, Python 스크립트를 통해 데이터를 Mocking 및 Migration, 관계를 생성합니다. 추후 Hadoop과 같은 대규모 데이터 처리 도구의 활용 가능성도 염두에 두고 프로젝트를 설계하였습니다.
+Docker Compose를 사용하여 MongoDB와 Neo4j 컨테이너를 관리하며, Python 스크립트를 통해 데이터를 Mocking 및 Migration, 관계를 생성. 
+추후 Hadoop과 같은 대규모 데이터 처리 도구의 활용 가능성도 염두에 두고 프로젝트를 설계.
 
 ---
 
