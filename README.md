@@ -103,3 +103,6 @@ MATCH (n) RETURN n LIMIT 10;
 ## 실행 결과
 
 - 아래는 Neo4j 브라우저에서 확인한 데이터 시각화 결과
+
+<img width="1352" alt="image" src="https://github.com/user-attachments/assets/334adb6f-4d19-4653-9216-682f503663a4">
+
